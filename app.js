@@ -182,7 +182,7 @@ class GroceryListItem extends React.Component {
 		
 		this.onMouseOut=()=> {
 			this.setState({
-				done: false+
+				done: false
 			})
 		}
 		
